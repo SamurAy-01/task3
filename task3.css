@@ -3,8 +3,8 @@
     height: 500px;
     background-color: #2e3d52;
     text-align: center;
-    margin-left: 700px;
-    margin-top: 200px;
+    margin-left: 600px;
+    margin-top: 150px;
     position: absolute;
 }
 .container input{
@@ -17,8 +17,8 @@
     height: 500px;
     background-color: #34495e;
     float: left;
-    margin-left: 750px;
-    margin-top: 200px;
+    margin-left: 650px;
+    margin-top: 150px;
 }
 body p{
     font-size: 9px;
@@ -29,25 +29,25 @@ body p{
 .meet{
     width: 250px;
     height: 120px;
-    border-right: 8px solid #d88b8c;
+    border-right: 10px solid #d88b8c;
 }
 .team{
     width: 250px;
     height: 95px;
-    border-right: 8px solid #e2bf8d;
+    border-right: 10px solid #e2bf8d;
 }
 .watch{
     width: 250px;
     height: 95px;
-    border-right: 8px solid #2d9dcd;
+    border-right: 10px solid #2d9dcd;
 }
 .date{
     width: 250px;
     height: 95px;
-    border-right: 8px solid #b28ae1;
+    border-right: 10px solid #b28ae1;
 }
 .jogg{
     width: 250px;
     height: 95px;
-    border-right: 8px solid #53ceb3;
+    border-right: 10px solid #53ceb3;
 }
