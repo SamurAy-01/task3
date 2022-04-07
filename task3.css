@@ -1,0 +1,53 @@
+.container{
+    width: 40px;
+    height: 400px;
+    background-color: #2e3d52;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 200px;
+    position: absolute;
+}
+.container input{
+    width: 20px;
+    height: 20px;
+    margin: 30px 0 30px 0;
+}
+.container2{
+    width: 250px;
+    height: 400px;
+    background-color: #34495e;
+    float: left;
+    margin-left: 440px;
+    margin-top: 200px;
+}
+body p{
+    font-size: 9px;
+}
+.container2 label{
+    font-size: 25px;
+}
+.meet{
+    width: 250px;
+    height: 100px;
+    border-right: 8px solid #d88b8c;
+}
+.team{
+    width: 250px;
+    height: 75px;
+    border-right: 8px solid #e2bf8d;
+}
+.watch{
+    width: 250px;
+    height: 75px;
+    border-right: 8px solid #2d9dcd;
+}
+.date{
+    width: 250px;
+    height: 75px;
+    border-right: 8px solid #b28ae1;
+}
+.jogg{
+    width: 250px;
+    height: 75px;
+    border-right: 8px solid #53ceb3;
+}
