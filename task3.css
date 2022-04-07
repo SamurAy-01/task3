@@ -1,6 +1,6 @@
 .container{
-    width: 40px;
-    height: 400px;
+    width: 50px;
+    height: 500px;
     background-color: #2e3d52;
     text-align: center;
     margin-left: 700px;
@@ -8,16 +8,16 @@
     position: absolute;
 }
 .container input{
-    width: 20px;
-    height: 20px;
-    margin: 30px 0 30px 0;
+    width: 25px;
+    height: 25px;
+    margin: 35px 0 35px 0;
 }
 .container2{
     width: 250px;
-    height: 400px;
+    height: 500px;
     background-color: #34495e;
     float: left;
-    margin-left: 740px;
+    margin-left: 750px;
     margin-top: 200px;
 }
 body p{
@@ -28,26 +28,26 @@ body p{
 }
 .meet{
     width: 250px;
-    height: 100px;
+    height: 120px;
     border-right: 8px solid #d88b8c;
 }
 .team{
     width: 250px;
-    height: 75px;
+    height: 95px;
     border-right: 8px solid #e2bf8d;
 }
 .watch{
     width: 250px;
-    height: 75px;
+    height: 95px;
     border-right: 8px solid #2d9dcd;
 }
 .date{
     width: 250px;
-    height: 75px;
+    height: 95px;
     border-right: 8px solid #b28ae1;
 }
 .jogg{
     width: 250px;
-    height: 75px;
+    height: 95px;
     border-right: 8px solid #53ceb3;
 }
